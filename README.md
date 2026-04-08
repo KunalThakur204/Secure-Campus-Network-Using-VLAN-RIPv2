@@ -85,8 +85,8 @@ The network is designed using a hierarchical approach:
 
 ## 📚 Author
 
-👤 Your Name
-🎓 Student | Networking Enthusiast
+👤 Kunal Thakur
+🎓 Student | Enthusiast
 
 ---
 
